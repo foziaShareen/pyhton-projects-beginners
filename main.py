@@ -1,4 +1,4 @@
-# Bird-themed Mad Libs Generator - Charles Joseph Monaghan 11/10/2017
+# Bird-themed by fozia
 
 # Loop back to this point once code finishes
 loop = 1
